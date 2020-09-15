@@ -1,0 +1,13 @@
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.csprojAssemblyReference.cache
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.AssemblyInfoInputs.cache
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.AssemblyInfo.cs
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\bin\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.exe
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\bin\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.deps.json
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\bin\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.runtimeconfig.json
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\bin\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.runtimeconfig.dev.json
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\bin\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.dll
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\bin\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.pdb
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.dll
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.pdb
+C:\Users\Lucas\Desktop\Stuff\Semestre 3\OOP\ParcialObjetosJPC_LFL\obj\Debug\netcoreapp3.1\ParcialObjetosJPC_LFL.genruntimeconfig.cache
